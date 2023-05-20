@@ -1,0 +1,27 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.notice {
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.notice h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.notice p {
+  margin: 0;
+  color: #666;
+}
